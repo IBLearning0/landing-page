@@ -192,3 +192,15 @@ body{
     font-size: 18px;
     border: 2px solid whitesmoke;
 }
+
+
+/* footer styling */
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    background-color: #1F2937;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
