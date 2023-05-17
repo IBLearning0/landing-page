@@ -88,6 +88,7 @@ body{
     display: flex;
     flex-direction: column;
     background-color: whitesmoke;
+    padding-bottom: 110px;
 }
 
 .sec2-tittle{
